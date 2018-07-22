@@ -14,5 +14,6 @@ Open source distributed database of sporting segments for people to do GPS based
  * Users should be able to extract polyline segments and create segments
  * Users should be able to get other users segment efforts for segments they are intrested in
  * Users should be able to submit activities as fit files and have their segment efforts made public
+ * Users should be able to see how their effort compares to others like them
  
  
