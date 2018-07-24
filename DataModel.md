@@ -7,7 +7,7 @@
 ## User Object
  * Public key - Data is encrypted with public key to make sure only creator modified it
  * Name, gender, ect…
- * User Activity public keys - This is a list of public keys to indicate which
+ * User Activity public keys
 
 ## Activity Object
  * Activity public key::Public Key
@@ -20,6 +20,9 @@
   
 ## Segment Effort
  * TODO
-
+ 
+ 
+## Data Grid
+ * Data grids are downloadable data sets which contain Segments, Users, and Segment Efforts for a geographic region. This will be the base grouping for data.
 
 
