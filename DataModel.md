@@ -3,6 +3,7 @@
  * Activities
  * Segments
  * Segment Efforts
+ * Peer (for p2p back end)
 
 ## User Object
  * Public key - Data is encrypted with public key to make sure only creator modified it
